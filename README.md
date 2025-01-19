@@ -4,9 +4,19 @@
 ![GitHub](https://img.shields.io/badge/Python-3.8%2B-green)
 ![GitHub](https://img.shields.io/badge/Estado-Activo-brightgreen)
 
-Este proyecto permite analizar y comparar dos muestras de audio para determinar si las voces pertenecen a la misma persona. Utiliza técnicas de procesamiento de señales, como la extracción de formantes, MFCC (Mel-Frequency Cepstral Coefficients) y DTW (Dynamic Time Warping), para realizar comparaciones robustas. Además, incluye la detección de emociones y la generación de gráficos detallados para facilitar la interpretación de los resultados. Desarrollada para el **Grupo de Peritos Forenses Digitales de Guatemala** por **José R. Leonett**.
+<div align="center">
+  <img src="https://github.com/jrleonett/Analisis_de_Voz_con_Praat/raw/main/voces.webp" >
+</div>
 
+
+Este proyecto permite analizar y comparar dos muestras de audio para determinar si las voces pertenecen a la misma persona. Utiliza técnicas de procesamiento de señales, como la extracción de formantes, MFCC (Mel-Frequency Cepstral Coefficients) y DTW (Dynamic Time Warping), para realizar comparaciones robustas. Además, incluye la detección de emociones y la generación de gráficos detallados para facilitar la interpretación de los resultados. Desarrollada para el **Grupo de Peritos Forenses Digitales de Guatemala** por **José R. Leonett**.
 🌐 [www.forensedigital.gt](http://www.forensedigital.gt)
+
+<div align="center">
+  <a href="https://colab.research.google.com/github/jrleonett/Analisis_de_Voz_con_Praat/blob/main/compracion_audios_praat.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abrir en Colab">
+  </a>
+</div>
 
 ---
 
