@@ -1,6 +1,6 @@
 # Análisis Forense de Voz con PRAAT
 
-![GitHub](https://img.shields.io/badge/Licencia-MIT-blue)
+![Licencia](https://img.shields.io/badge/Licencia-GNU%20GPL%20v3-blue)
 ![GitHub](https://img.shields.io/badge/Python-3.8%2B-green)
 ![GitHub](https://img.shields.io/badge/Estado-Activo-brightgreen)
 
@@ -144,7 +144,7 @@ Usa la siguiente entrada BibTeX si utilizas este trabajo en tu investigación:
 ---
 
 # **Licencia.**
-- Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
+- Este proyecto está bajo la licencia GNU General Public License v3.0. Consulta el archivo LICENSE para más detall
 ---
 # **Contribuciones.**
 - Las contribuciones son bienvenidas. Si deseas mejorar este proyecto, por favor abre un issue o envía un pull request.
