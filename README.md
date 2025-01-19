@@ -1,8 +1,11 @@
 # Análisis Forense de Voz con PRAAT
 
+![Hecho con PRAAT](https://img.shields.io/badge/Hecho_con-PRAAT-blue)
 ![Licencia](https://img.shields.io/badge/Licencia-GNU%20GPL%20v3-blue)
 ![GitHub](https://img.shields.io/badge/Python-3.8%2B-green)
 ![GitHub](https://img.shields.io/badge/Estado-Activo-brightgreen)
+
+**PRAAT** es un software de análisis fonético diseñado para estudiar, grabar y analizar sonidos del habla. Desarrollado por Paul Boersma y David Weenink de la Universidad de Ámsterdam, PRAAT permite realizar tareas como la extracción de tonos (pitch), formantes, intensidad y espectrogramas, lo que lo hace una herramienta esencial en lingüística, fonética y análisis forense de voz. Es gratuito, de código abierto y compatible con múltiples plataformas, ofreciendo una interfaz gráfica y scripting para automatizar tareas complejas.
 
 <div align="center">
   <img src="https://github.com/jrleonett/Analisis_de_Voz_con_Praat/raw/main/voces.webp" >
