@@ -64,31 +64,24 @@ python analisis_voz.py
 
 # **Ejemplo de Salida.**
 ```bash
-------------------------------------------------
-Análisis Forense de Voz con PRAAT
-------------------------------------------------
-**Archivo Original 1**
-Nombre: audio1.mp3, Tamaño: 5.23 MB, Fecha creación: 2023-10-01 12:34:56
-Formato: .mp3
-------------------------------------------------
-**Archivo Convertido 1**
-Nombre: audio1_converted.wav, Tamaño: 10.45 MB
-------------------------------------------------
-Emoción: Feliz
-------------------------------------------------
-**Archivo Original 2**
-Nombre: audio2.wav, Tamaño: 15.67 MB, Fecha creación: 2023-10-02 14:20:30
-Formato: .wav
-------------------------------------------------
-**Archivo Convertido 2**
-Nombre: audio2_converted.wav, Tamaño: 15.67 MB
-------------------------------------------------
+**Archivo Original 01**
+Nombre: JAMES.mp3, Tamaño: 0.15 MB, Fecha: 2025-01-19 17:54:23
+---------------------
+**Convertido 01**
+Nombre: JAMES_converted.wav, Tamaño: 0.91 MB
 Emoción: Neutral
-------------------------------------------------
-** Similitud MFCC: 85.32
-** Distancia entre formantes: 45.67
-------------------------------------------------
-**Conclusión**: Las voces son las mismas.
+************************************************
+**Archivo Original 02**
+Nombre: Amenaza-Telefonica.mp3, Tamaño: 0.07 MB, Fecha: 2025-01-19 17:53:43
+---------------------
+**Convertido 02**
+Nombre: Amenaza-Telefonica_converted.wav, Tamaño: 0.74 MB
+Emoción: Neutral
+************************************************
+Similitud MFCC: 137136.68
+Distancia entre formantes: 473.56
+-----------------------
+Conclusión: Las voces no son las mismas.
 ```
 ---
 
