@@ -4,15 +4,9 @@
 ![GitHub](https://img.shields.io/badge/Python-3.8%2B-green)
 ![GitHub](https://img.shields.io/badge/Estado-Activo-brightgreen)
 
-Herramienta de comparación de voces basada en técnicas forenses utilizando la librería PRAAT. Desarrollada para el **Grupo de Peritos Forenses Digitales de Guatemala** por **José R. Leonett**.
+Este proyecto permite analizar y comparar dos muestras de audio para determinar si las voces pertenecen a la misma persona. Utiliza técnicas de procesamiento de señales, como la extracción de formantes, MFCC (Mel-Frequency Cepstral Coefficients) y DTW (Dynamic Time Warping), para realizar comparaciones robustas. Además, incluye la detección de emociones y la generación de gráficos detallados para facilitar la interpretación de los resultados. Desarrollada para el **Grupo de Peritos Forenses Digitales de Guatemala** por **José R. Leonett**.
 
 🌐 [www.forensedigital.gt](http://www.forensedigital.gt)
-
----
-
-# Descripción.
-
-Este proyecto permite analizar y comparar dos muestras de audio para determinar si las voces pertenecen a la misma persona. Utiliza técnicas de procesamiento de señales, como la extracción de formantes, MFCC (Mel-Frequency Cepstral Coefficients) y DTW (Dynamic Time Warping), para realizar comparaciones robustas. Además, incluye la detección de emociones y la generación de gráficos detallados para facilitar la interpretación de los resultados.
 
 ---
 
