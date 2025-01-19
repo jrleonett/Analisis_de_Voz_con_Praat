@@ -138,7 +138,7 @@ Usa la siguiente entrada BibTeX si utilizas este trabajo en tu investigación:
 ---
 
 # **Licencia.**
-- Este proyecto está bajo la licencia GNU General Public License v3.0. Consulta el archivo LICENSE para más detall
+- Este proyecto está bajo la licencia GNU General Public License v3.0. Consulta el archivo LICENSE para más detalles.
 ---
 # **Contribuciones.**
 - Las contribuciones son bienvenidas. Si deseas mejorar este proyecto, por favor abre un issue o envía un pull request.
